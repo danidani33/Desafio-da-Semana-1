@@ -1,0 +1,58 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto', sans-serif;
+
+    box-sizing: border-box;
+
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color:yellowgreen;
+      width: 95%;
+      height: 80px;
+      margin-left: 20px;
+    color:white;
+    paddiing: 15px;
+}
+
+
+.part-2{
+    width: 75%;
+    position: relative;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+
+
+.text-1{
+    background-color:black;
+      width: ;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+
+
+
+img{
+    width: 80px;
+    height: 80px;
+    
+}
+p{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+      float: top;
+    padding: 20px;
+    margin-top: 50px;
+}
+
